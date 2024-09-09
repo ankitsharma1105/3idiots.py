@@ -1,6 +1,6 @@
 # 3idiots.py
 # ankitsharma1105
-Author by : Ankit Sharma
+Author by : Ankit Sharma <br>
 Subject : .py
 1. Write a python program to calculate area of triangle and circle and print the result. Take input (5)
 from user.
