@@ -15,7 +15,9 @@ from user.
 10. What are different type errors in python?
 11. Write a bitwise operator in python.
 12. Write a python program to display the following series.
+    
     ![image](https://github.com/user-attachments/assets/bdf873f2-294b-4d04-b25c-740e2c01bee6)
+    
 14. Write a short note on looping structure in python.
 15. Write a short program to demonstrate the use of parameterized function.
 16. Explain any 5 math function in python with example.
